@@ -1,0 +1,36 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+
+<style>
+
+    #title{
+        background-color: green
+    }
+
+    #web_background_color{
+        background-color: #cccccc
+       	hegith 1000px
+       	width 1000px
+       	
+    }
+    
+
+</style>
+
+<body>
+    <div id="web_background_color">
+        <center>
+            <div id="title"><font color=white><strong>도서관리</strong></div><div>     
+        </center>
+            
+            
+    </div>
+    
+</body>
+</html>

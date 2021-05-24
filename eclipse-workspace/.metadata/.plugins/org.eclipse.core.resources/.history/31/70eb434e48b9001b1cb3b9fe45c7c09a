@@ -1,0 +1,9 @@
+package triangle;
+
+public class AccessEx {
+	public ina a;
+	private int b;
+	int c;
+}
+
+public class AccessEx

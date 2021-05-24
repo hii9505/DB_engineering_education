@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+
+<style>
+
+    #title{
+        background-color: green
+    }
+
+    #web_background_color{
+        background-color: #cccccc
+        height 1000px;
+        width: 1000px;
+    }
+    
+
+</style>
+
+<body>
+    <div id="web_background_color">
+        <center>
+            <div id="title">���� �˻�<div>     
+        </center>
+            
+            
+    </div>
+    
+</body>
+</html>

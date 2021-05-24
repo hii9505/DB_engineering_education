@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>이름 <input type="text"></div>
+    주민등록번호 <input type="text"> - <input type="text">
+    아이디<input type="text">
+    비밀번호 <input type="password">
+    비밀번호 확인 <input type="password">
+    우편번호 <input type="text">
+    주소 <input type="text"><input type="text">
+    핸드폰번호 <input type="text">
+    직업 <input type="text">
+    매일/SMS 정보 수신
+</body>
+
+</html>

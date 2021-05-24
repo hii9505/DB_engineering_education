@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+
+<style>
+
+    #title{
+        background-color: green
+    }
+
+    #web_background_color{
+        background-color: #cccccc
+    }
+
+</style>
+
+<body>
+<div id="web_background_color"></div>
+
+<center>
+    <div id="title">도서 검색<div>     
+    </center>
+
+
+    
+</body>
+</html>

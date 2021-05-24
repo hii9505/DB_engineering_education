@@ -1,0 +1,21 @@
+nav > ul {
+	display: flex;
+	padding: 0;
+}
+
+nav li {
+	display: block;
+}
+
+nav li > a {
+	display: block;
+	padding: 1em;
+	background: lightgreen;
+	color: black;
+	text-decoration: none;
+}
+
+nav li > a:hover {
+	background: green;
+	color: white;
+}
