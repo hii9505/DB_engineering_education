@@ -1,0 +1,6 @@
+package thursdayClass;
+
+class Person {
+
+
+}

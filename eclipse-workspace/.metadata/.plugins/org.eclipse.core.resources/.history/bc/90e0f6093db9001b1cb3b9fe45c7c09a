@@ -1,9 +1,0 @@
-package triangle;
-
-public class Sample {
-	public ina a;
-	private int b;
-	int c;
-}
-
-public class AccessEx
